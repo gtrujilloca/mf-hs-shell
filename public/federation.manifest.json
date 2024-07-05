@@ -1,4 +1,4 @@
 {
-	"checkout": "http://localhost:4202/remoteEntry.json",
-	"shop": "http://localhost:4201/remoteEntry.json"
+	"checkout": "http://checkout:80/remoteEntry.json",
+	"shop": "http://shop:80/remoteEntry.json"
 }
